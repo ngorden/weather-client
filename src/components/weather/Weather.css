@@ -1,0 +1,11 @@
+#btn-group {
+    text-align: right;
+}
+
+#btnDetails {
+    text-align: center;
+}
+
+hr.divider {
+    margin: 2em 0 10px 0;
+}
